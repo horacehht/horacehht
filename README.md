@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @horacehht
-- 👀 I’m interested in CV and RL
-- 🌱 I’m currently learning medical imaging segmentation
+- 👀 I’m interested in bioinformatics / computational biology
+- 🌱 I’m currently using some tools to solve problems in medical imaging segmentation
 - 📫 How to reach me : Horace_01@126.com
 
 <!---
